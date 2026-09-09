@@ -1,0 +1,8 @@
+========== STOCK PORTFOLIO ==========
+
+AAPL | Price: ₹180 | Quantity: 4 | Investment: ₹720
+TSLA | Price: ₹200 | Quantity: 6 | Investment: ₹1200
+
+--------------------------------------
+Total Investment: ₹1920
+======================================
