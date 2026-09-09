@@ -1,0 +1,65 @@
+
+🎮 Welcome to Hangman!
+Guess the word one letter at a time.
+You have 6 incorrect guesses.
+
+Word: _ _ _ _ _ _
+Wrong guesses: 0 / 6
+
+Enter a letter: p
+✅ Correct guess!
+
+Word: p _ _ _ _ _
+Wrong guesses: 0 / 6
+
+Enter a letter: y
+✅ Correct guess!
+
+Word: p y _ _ _ _
+Wrong guesses: 0 / 6
+
+Enter a letter: z
+❌ Incorrect guess!
+
+Word: p y _ _ _ _
+Wrong guesses: 1 / 6
+
+Enter a letter: t
+✅ Correct guess!
+
+Word: p y t _ _ _
+Wrong guesses: 1 / 6
+
+Enter a letter: h
+✅ Correct guess!
+
+Word: p y t h _ _
+Wrong guesses: 1 / 6
+
+Enter a letter: o
+✅ Correct guess!
+
+Word: p y t h o _
+Wrong guesses: 1 / 6
+
+Enter a letter: n
+✅ Correct guess!
+
+🎉 Congratulations!
+You guessed the word: python
+
+
+----------------------------------------
+Example of Invalid Input
+----------------------------------------
+
+Enter a letter: 12
+Please enter only one letter.
+
+Enter a letter: p
+You already guessed that letter.
+
+
+Note:
+The actual output may be different because
+the game randomly selects a word from the list.
